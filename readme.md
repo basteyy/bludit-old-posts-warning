@@ -6,7 +6,7 @@ Translation for English, German and French available.
 
 ## More Information
 
-Checkout (this, my website,)[https://www.meagainsttheweb.de/bludit-plugin-warning-for-old-posts] and (that, official bludit plugin store)[https://plugins.bludit.com/bludit-plugin-warning-for-old-posts].
+Checkout [this, my website,](https://www.meagainsttheweb.de/bludit-plugin-warning-for-old-posts) and [that, official bludit plugin store](https://plugins.bludit.com/bludit-plugin-warning-for-old-posts).
 
 ## LICENSE
 
