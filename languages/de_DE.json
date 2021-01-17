@@ -1,0 +1,25 @@
+{
+	"plugin-data": {
+		"name": "Old Post Warnung Plugin",
+		"description": "Das Plugin zeigt eine Information über veralteten Beiträgen an"
+	},
+
+	"general-settings": "Allgemeine Einstellungen",
+	"advanced-settings": "Erweiterte Einstellungen",
+	"Displayed message": "Angezeigte Meldung",
+	"old-post-warning-interval" : "Intervalleinheit",
+	"old-post-warning-leave-blank" : "Leer lassen um die Einstellung zurückzusetzen",
+	"Interval Type" : "Zeitraum",
+	"Minimum is 1" : "Nicht kleiner als 1",
+	"old-post-warning-position" : "Position",
+	"old-post-warning-position-tip" : "Die Nachricht vor oder nach dem Beitrag anzeigen",
+	"old-post-warning-tpl-tip" : "Um das Template anzupassen, kannst du zwei Variablen nutzen. Variable <code>%1$s</code> beinhaltet die Nachricht welche in den allgemeinen Einstellungen gesetzt wird. Die Variable <code>%2$s</code> gibt das Alter des Beitrages in Tagen zurück.",
+	"old-post-warning-default" : "Bitte beachten Sie, dass der Beitrag ziemlich alt ist. Die Informationen könnten veraltet sein.",
+	"old-post-warning-before-post" : "Vor dem Beitrag",
+	"old-post-warning-after-post" : "Nach dem Beitrag",
+	"years" : "Jahr(e)",
+	"months" : "Monat(e)",
+	"days" : "Tag(e)",
+	"hours" : "Stunde(n)",
+	"minutes" : "Minute(n)"
+}

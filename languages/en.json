@@ -1,0 +1,25 @@
+{
+	"plugin-data": {
+		"name": "Old Post Warning Plugin",
+		"description": "The plugin shows a warning message over your old posts to your visitors"
+	},
+
+	"general-settings": "General Settings",
+	"advanced-settings": "Advanced Settings",
+	"Displayed message": "Displayed message",
+	"old-post-warning-interval" : "Interval",
+	"old-post-warning-leave-blank" : "Leave blank to reset to the default value",
+	"Interval Type" : "Interval Type",
+	"Minimum is 1" : "Minimum is 1",
+	"old-post-warning-position" : "Position",
+	"old-post-warning-position-tip" : "Place the message before or after the post",
+	"old-post-warning-tpl-tip" : "For customizing the template you can use two variables for using placeholders. Variable <code>%1$s</code> holds the message, which you set up in the general settings block. The variable <code>%2$s</code> holds the age of the post in days.",
+	"old-post-warning-default" : "Please be aware, that the post is quite old. The information could be outdated.",
+	"old-post-warning-before-post" : "Before the post",
+	"old-post-warning-after-post" : "After the post",
+	"years" : "Year(s)",
+	"months" : "Month(s)",
+	"days" : "Day(s)",
+	"hours" : "Hour(s)",
+	"minutes" : "Minute(s"
+}

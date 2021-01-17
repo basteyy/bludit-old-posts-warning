@@ -1,0 +1,25 @@
+{
+	"plugin-data": {
+		"name": "Old Post Warning Plugin",
+		"description": "Le plugin affiche un message d'avertissement sur vos anciens messages à vos visiteurs"
+	},
+
+	"general-settings": "Paramètres généraux",
+	"advanced-settings": "Paramètres avancés",
+	"Message affiché": "Message affiché",
+	"old-post-warning-interval": "Interval",
+	"old-post-warning-leave-blank": "Laissez le champ vide pour rétablir la valeur par défaut",
+	"Type d'intervalle": "Type d'intervalle",
+	"Le minimum est 1": "Le minimum est 1",
+	"old-post-warning-position": "Position",
+	"old-post-warning-position-tip": "Placer le message avant ou après le message",
+	"old-post-warning-tpl-tip": "Pour personnaliser le modèle, vous pouvez utiliser deux variables pour utiliser des espaces réservés. La variable <code>%1$s </code> contient le message, que vous avez configuré dans les paramètres généraux bloc. La variable <code>%2$s </code> contient l'âge du message en jours. ",
+	"old-post-warning-default": "Veuillez noter que le message est assez ancien. Les informations peuvent être obsolètes.",
+	"old-post-warning-before-post": "Avant le message",
+	"old-post-warning-after-post": "Après le message",
+	"years": "An(s)",
+	"months": "Mois",
+	"days": "jour(s)",
+	"hours": "Heure(s)",
+	"minutes": "Minute(s))"
+}

@@ -1,0 +1,10 @@
+{
+	"author": "MeAgainstTheWeb",
+	"email": "du@meagainsttheweb.de",
+	"website": "https://www.meagainsttheweb.de/bludit-plugin-warning-for-old-posts",
+	"version": "1.0",
+	"releaseDate": "2021-17-01",
+	"license": "MIT",
+	"compatible": "3.0",
+	"notes": "Plugin requires at least PHP 7"
+}
